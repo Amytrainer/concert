@@ -19,16 +19,11 @@ To build a concert website for an HTML/CSS Capstone Project at Microverse
 - CSS3
 - Javascript (DOM)
 
-# Live demo
-<a href="https://rawcdn.githack.com/Eshy10/Concert-Website/7c50c519afb497f728ee22698036b63fcdc7d73c/index.html">Live Demo Link</a>
-
-# Video link
-- The video is an explanation of the project
-<a href="https://www.loom.com/share/ad4b6dd10ece452e995f97f479155ebe">Check here</a>
 
 # Installation
-- git clone git@github.com:Eshy10/Concert-Website.git
-- Install npm, check npm installation <a href="https://www.taniarascia.com/how-to-install-and-use-node-js-and-npm-mac-and-windows/">here</a>
+## Install npm.In terminal give command:npm install node
+Run your server :node server.js
+
 
 # Contributing
 This instructions below will help you in setting this project locally
